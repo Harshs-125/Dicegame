@@ -1,0 +1,22 @@
+body{
+  background-color:#334257;
+  text-align: center;
+  color: #EEEEEE;
+}
+
+/* top section */
+.main
+{
+  font-size: 5rem;
+  line-height: 2;
+}
+#top{
+  padding: 5rem 0;
+  font-family: 'Permanent Marker', cursive;
+}
+
+/* player section */
+#player{
+  padding: 2rem 0 7rem;
+  font-family: 'Otomanopee One', sans-serif;
+}
