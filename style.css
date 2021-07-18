@@ -17,7 +17,7 @@ body{
 
 /* player section */
 #player{
-  padding: 2rem 0 7rem;
+  padding: 2rem 10px 7rem;
   font-family: 'Otomanopee One', sans-serif;
   width: 50%;
   margin-left: auto;
